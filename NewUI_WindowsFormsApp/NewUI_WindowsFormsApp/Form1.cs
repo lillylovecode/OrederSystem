@@ -124,6 +124,7 @@ namespace NewUI_WindowsFormsApp
             lblUser.Text = $"Hi，{Formlogin.userName}!!";
             lblClass.Text = $"Class:{Formlogin.userClass}.";
             值日生顯示();
+            //test
         }
     }
 }
