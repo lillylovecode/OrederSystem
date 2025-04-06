@@ -1,6 +1,5 @@
 # OrederSystem
 
-點餐系統
-相關介紹YT: https://www.youtube.com/watch?v=1XnjQ529UdY&t=8s
+點餐大冒險 影片介紹
+https://www.youtube.com/watch?v=1XnjQ529UdY&t=8s
 
-![Uploading image.png…]()
